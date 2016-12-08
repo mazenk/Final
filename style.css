@@ -115,7 +115,7 @@ h3{
   font-family:'EB Garamond', serif;
   font-size: 19px;
   margin-top: 600px;
-	position: relative;
+  position: relative;
 
 }
 
@@ -129,8 +129,7 @@ hr{
 }
 
 .textimg {
-      width: 100%;
-      
+      width: 100%; 
 }
 
 p{
