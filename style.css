@@ -132,6 +132,12 @@ hr{
       width: 100%; 
 }
 
+blockquote {
+color: #F44336;
+font-size: 24px;
+font-style: italic;
+}
+
 p{
   text-align: justify;
   margin-top: 0;
